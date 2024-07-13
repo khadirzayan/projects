@@ -93,12 +93,6 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-<<<<<<< HEAD
-    /* padding-top: 100px; */
-=======
-/*     padding-top: 100px; */
->>>>>>> 1ee72fcc8b4fd23def53b33b8e3827f9cf5cbc19
-    /* padding-left: 200px; */
 }
 .home-right{
     width: 50%;
@@ -295,7 +289,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-<<<<<<< HEAD
 
 #contact{
     /* padding-top: 100px; 
@@ -349,5 +342,3 @@ body {
 #send:hover{
     transform: scale(1.2);
 }
-=======
->>>>>>> 1ee72fcc8b4fd23def53b33b8e3827f9cf5cbc19
